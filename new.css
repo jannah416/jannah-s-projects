@@ -201,8 +201,9 @@ footer{
      .page4 p {
         width: 200px;
      }
-}
+
 .page5  {
     flex-direction: column;
     font-size: small;
+}
 }
